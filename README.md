@@ -1,5 +1,5 @@
 # My-first-project
-A simple calculator project that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It has a clean user interface and is designed to demonstrate fundamental programming concepts and improve problem-solving and coding skills.
+A simple calculator project that performs basic arithmetic operations like addition, subtraction, multiplication, division,square root, modulus, HCF & LCM, mean, and median. It has a clean user interface and is designed to demonstrate fundamental programming concepts and improve problem-solving and coding skills.
 [prac.py](https://github.com/user-attachments/files/29115404/prac.py)
 from collections import Counter
 import math
